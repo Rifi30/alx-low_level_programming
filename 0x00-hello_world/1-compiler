@@ -1,3 +1,2 @@
 #!/bin/bash
-gcc -C $CFILE
-
+gcc -Wall -Werror -Wextra -pedantic $CFILE -o cfile
