@@ -1,8 +1,10 @@
 #include <stdio.h>
-
-int main(void) {
+/**
+ * main - print a line of code using puts 
+ * Return:(0)
+*/
+int main(void)
 {
-puts("Hello, world!");
-puts("Program executed successfully.");
-return 0;
-}
+      puts("\"Programming is like building a multilingual puzzle");	
+      return(0);
+}      
